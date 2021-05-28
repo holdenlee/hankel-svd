@@ -1,0 +1,48 @@
+# Complied source #
+###################
+
+*.exe
+*.hi
+*.o
+*.pyc
+
+# LaTeX auxiliary files #
+#########################
+
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.dvi
+*.idx
+*.ilg
+*.ind
+*.log
+*.nlg
+*.nlo
+*.nls
+*.out
+*.ptc
+*.ptx
+*.run.xml
+*.toc
+*.gz
+
+# Miscellaneous files #
+#######################
+
+*.db
+*~
+*#
+*.webpack.js
+.psci
+
+# Folders #
+###########
+
+elm-stuff
+.pulp-cache
+bower_components
+dist
+output
+.stack-work
